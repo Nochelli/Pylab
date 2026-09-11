@@ -1,7 +1,11 @@
 # PYLAB 
 ![Author](https://img.shields.io/badge/Author-Jeferson%20Nochelli-blue)
 
-PyLab é um ambiente para estudar Python e ter a facilidade de acessar diretamente no navegador. _(está responsivo, podendo estudar via mobile e também ser utilizado como PWA possibilitando o uso como um aplicativo no celular ou computador)_.
+PyLab é um ambiente para estudar Python e ter a facilidade de acessar diretamente no navegador. 
+
+**https://nochelli.github.io/Pylab/**
+
+_(está responsivo, podendo estudar via mobile e também ser utilizado como PWA possibilitando o uso como um aplicativo no celular ou computador)_.
 
 O projeto utiliza Pyodide para executar código Python em tempo real sem necessidade de instalação local e Monaco Editor para oferecer uma experiência semelhante ao VS Code.
 
